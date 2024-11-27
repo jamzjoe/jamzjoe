@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Joe, a passionate mobile app developer with **2 years of hands-on experience** in building dynamic, user-friendly applications using **Flutter**.
+I'm **Joe**, a passionate mobile app developer with **2 years of hands-on experience** in building dynamic, user-friendly applications using **Flutter**.
 
 ### 🔭 I’m currently working on
 - Developing cross-platform mobile apps with Flutter.
@@ -20,6 +20,21 @@ I'm Joe, a passionate mobile app developer with **2 years of hands-on experience
 - Building responsive Flutter apps for Android and iOS.
 - Implementing custom UI components and animations.
 - Best practices for structuring large-scale Flutter projects.
+
+---
+
+### 🛠️ Tech Stack
+
+| **Category**          | **Tools & Technologies**                                                                 |
+|-----------------------|-----------------------------------------------------------------------------------------|
+| **Programming Languages** | Dart, Java, Kotlin, JavaScript                                                        |
+| **Frameworks**         | Flutter, Firebase, Material Design                                                      |
+| **State Management**   | Provider, Riverpod, Bloc, Redux                                                         |
+| **Backend Integration** | Firebase Firestore, Firebase Realtime Database, REST APIs, GraphQL                     |
+| **Tools & Utilities**  | Git, CI/CD (GitHub Actions, Codemagic), Postman, Android Studio, Visual Studio Code     |
+| **Design**             | Figma, Adobe XD, Flutter Custom Widgets                                                 |
+
+---
 
 ### 📫 How to reach me
 - Email: [your email address]
