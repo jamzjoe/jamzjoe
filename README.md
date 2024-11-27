@@ -37,9 +37,7 @@ I'm **Joe**, a passionate mobile app developer with **2 years of hands-on experi
 ---
 
 ### 📫 How to reach me
-- Email: [your email address]
-- LinkedIn: [your LinkedIn profile link]
-- Portfolio: [your portfolio link, if applicable]
+- Email: jamisjoecristian@gmail.com
 
 ### ⚡ Fun fact
 I can spend hours tweaking app themes and animations—because every pixel matters!
