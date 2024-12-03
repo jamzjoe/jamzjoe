@@ -6,10 +6,8 @@ I'm **Joe**, a passionate mobile app developer with **2 years of hands-on experi
 - Developing cross-platform mobile apps with Flutter.
 - Creating scalable and maintainable codebases.
 - Enhancing user experiences through intuitive UI/UX design.
-
-### 🌱 I’m currently learning
 - Advanced Flutter techniques like **state management** (Provider, Riverpod) and **animations**.
-- Exploring backend integration with **Firebase** and **RESTful APIs**.
+- Backend integration with **Firebase** and **RESTful APIs**.
 - Improving performance optimization and testing strategies in Flutter apps.
 
 ### 👯 I’m looking to collaborate on
@@ -27,11 +25,11 @@ I'm **Joe**, a passionate mobile app developer with **2 years of hands-on experi
 
 | **Category**          | **Tools & Technologies**                                                                 |
 |-----------------------|-----------------------------------------------------------------------------------------|
-| **Programming Languages** | Dart, Java, Kotlin, JavaScript                                                        |
+| **Programming Languages** | Dart, Java, Kotlin, JavaScript                                                       |
 | **Frameworks**         | Flutter, Firebase, Material Design                                                      |
-| **State Management**   | Provider, Riverpod, Bloc, Redux                                                         |
-| **Backend Integration** | Firebase Firestore, Firebase Realtime Database, REST APIs, GraphQL                     |
-| **Tools & Utilities**  | Git, CI/CD (GitHub Actions, Codemagic), Postman, Android Studio, Visual Studio Code     |
+| **State Management**   | Bloc                                                                                    |
+| **Backend Integration** | Firebase Firestore, Firebase Realtime Database, REST APIs                              |
+| **Tools & Utilities**  | Git, CI/CD, Postman, Android Studio, Visual Studio Code                                 |
 | **Design**             | Figma, Adobe XD, Flutter Custom Widgets                                                 |
 
 ---
